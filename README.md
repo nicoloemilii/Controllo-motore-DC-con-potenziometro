@@ -1,8 +1,5 @@
 # Controllo Motore DC con Potenziometro
 
-## 📅 Relazione N.4 del 17/05/2024  
-**Progettista:** Nicolò Emilii  
-
 ## 🔧 Descrizione del progetto
 Questo progetto ha lo scopo di controllare la velocità di un motore DC utilizzando un potenziometro e un PLC Siemens S7-1200. Il controllo della velocità avviene tramite un segnale PWM (Pulse Width Modulation) generato dal PLC, che agisce su un transistor Darlington BDX53BG per regolare l'alimentazione del motore.
 
@@ -35,6 +32,10 @@ Sono allegati nella documentazione originale della relazione (vedi immagini o PD
 
 ## 🔄 Possibili estensioni
 Un aggiornamento del progetto prevede l’introduzione di un **encoder rotativo**, che consentirà di rilevare in tempo reale la velocità del motore, completando così il ciclo di controllo con feedback.
+
+## 👨‍💻 Autore
+
+Nicolò Emilii
 
 ---
 
