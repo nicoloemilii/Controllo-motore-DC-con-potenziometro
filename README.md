@@ -1,4 +1,3 @@
-![Disegno1](https://github.com/user-attachments/assets/6114ce83-122b-43f9-b105-5f73de0c1fd5)
 # Controllo Motore DC con Potenziometro
 
 ## 🔧 Descrizione del progetto
